@@ -12,7 +12,7 @@
     <title>PHP-Dischi</title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../PHP/css/style.css">
 
 </head>
 <body>
