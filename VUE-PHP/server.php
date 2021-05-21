@@ -22,5 +22,4 @@
     } else {
         echo json_encode($database);
     }
-
 ?>
